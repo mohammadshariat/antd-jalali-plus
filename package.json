@@ -45,8 +45,8 @@
     "react-dom": "^18"
   },
   "devDependencies": {
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
     "antd": "^5.16.1",
     "esbuild": "^0.14.24",
     "react": "^18",
